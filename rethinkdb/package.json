@@ -1,0 +1,17 @@
+{
+  "name": "rethinkdb-exmaple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "async": "^2.0.0-rc.5",
+    "optimist": "^0.6.1",
+    "rethinkdb": "^2.3.1",
+    "underscore": "^1.8.3"
+  }
+}
