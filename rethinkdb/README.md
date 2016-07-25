@@ -13,7 +13,7 @@ To make our lives simpler, we created a single config file that we could use whe
 
 Before going any further, make sure that you have replaced all of our placeholders with your RethinkDB details.
 
-#### SSH
+#### Secure Connection
 We used a [Compose hosted Rethinkdb](http://www.compose.com/rethinkdb) to build our samples, so this means we were required to use SSH. If you are doing the same, make sure that on `line 3` of the `config.js` is pointing to your certificate.
 
 ```javascript
