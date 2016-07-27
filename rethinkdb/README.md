@@ -1,5 +1,5 @@
 # Day 1 - RethinkDB
-First up, we tackled [RethinkDB](http://www.rethinkdb.com)!
+First up, we tackled [RethinkDB](http://www.rethinkdb.com)! Follow along in [our tutorial](developer.ibm.com/clouddataservices/2016/07/28/7-databases-7-days-rethinkdb/).
 
 ## Setup and configuration
 
@@ -22,7 +22,7 @@ const cert = new Buffer(fs.readFileSync('./cert', "utf8"));
 
 If you name your certificate file `cert` and drop it into the `/rethinkdb` directory, then it should work as is.
 
-If you are not using Compose or SSH, then you can comment out this line. You will also need to remove reference to the `ssl` property of the connection` object.
+If you are not using Compose or SSH, then you can comment out this line. You will also need to remove reference to the `ssl` property of the `connection` object.
 
 ## Running the code samples
 The code samples come in the form of individual scripts that demonstrate how to do particular things in RethinkDB. These need to be ran in some kind of order - at least at first.
