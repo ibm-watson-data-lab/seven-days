@@ -1,5 +1,5 @@
 # Day 1 - RethinkDB
-First up, we tackled [RethinkDB](http://www.rethinkdb.com)! Follow along in [our tutorial](developer.ibm.com/clouddataservices/2016/07/28/7-databases-7-days-rethinkdb/).
+First up, we tackled [RethinkDB](http://www.rethinkdb.com)! Follow along in [our tutorial](http://developer.ibm.com/clouddataservices/2016/07/28/7-databases-7-days-rethinkdb/).
 
 ## Setup and configuration
 
