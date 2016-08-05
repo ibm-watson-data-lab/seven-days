@@ -5,7 +5,7 @@ This repository is in reference to the "Seven Databases in Seven Days" blog seri
 Here you will find code samples that relate to the individual articles.
 
 * [RethinkDB](/rethinkdb)
-* MongoDB
+* [MongoDB](/mongodb)
 * Postgres
 * IBM Cloudant
 * Etcd
