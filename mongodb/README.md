@@ -21,7 +21,7 @@ If you are not using Compose or SSH, then you will need to modify the examples i
 
 ## Running the samples
 
-There are a number of files that you should be aware of, they should all be accessed via your browser. It will all make sense if you follow along with our [blog post](https://developer.ibm.com/clouddataservices/2016/08/05/7-databases-7-days-mongodb/), but for your pece of mind here is a quick description of what each file does!
+There are a number of files that you should be aware of, they should all be accessed via your browser. It will all make sense if you follow along with our [blog post](https://developer.ibm.com/clouddataservices/2016/08/05/7-databases-7-days-mongodb/), but for your peace of mind here is a quick description of what each file does!
 
 ### connect.php
 This file is required by all subsequent files, and contains all of the configuration needed to connect to your MongoDB instance.
