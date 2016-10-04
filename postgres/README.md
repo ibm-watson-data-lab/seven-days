@@ -1,5 +1,5 @@
 # Day 3 - PostgreSQL
-Next, we looked at [PostgreSQL](https://www.postgresql.org/)! Follow along in [our tutorial](https://developer.ibm.com/clouddataservices/2016/08/05/7-databases-7-days-mongodb/).
+Next, we looked at [PostgreSQL](https://www.postgresql.org/)! Follow along in [our tutorial](http://developer.ibm.com/clouddataservices/2016/10/05/7-databases-7-days-postgresql/).
 
 ## Running the samples
 
