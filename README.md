@@ -6,7 +6,7 @@ Here you will find code samples that relate to the individual articles.
 
 * [RethinkDB](/rethinkdb)
 * [MongoDB](/mongodb)
-* Postgres
+* [Postgres](/postgres)
 * IBM Cloudant
 * Etcd
 * Dash DB
