@@ -7,7 +7,7 @@ Here you will find code samples that relate to the individual articles.
 * [RethinkDB](/rethinkdb)
 * [MongoDB](/mongodb)
 * [Postgres](/postgres)
-* IBM Cloudant
+* [IBM Cloudant](/cloudant)
 * Etcd
 * Dash DB
 * IBM Graph

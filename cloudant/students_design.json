@@ -1,0 +1,16 @@
+{
+  "_id" : "_design/students",
+  "_rev": "10-2da1d0d18009e20162d9d7fbcf07047d",
+  "views" : {
+    "foo" : {
+      "map" : "function(doc){ 
+          if(doc.modules.length > 0) {
+              for(var idx in doc.modules) {
+                  emit(doc.name, doc.modules[idx].score)
+              }
+          }
+      }",
+      "reduce" : "_stats"
+    }
+  }
+}
