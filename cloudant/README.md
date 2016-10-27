@@ -3,4 +3,4 @@ Next, we looked at [IBM Cloudant](https://cloudant.com/)! Follow along in [our t
 
 ## Running the Samples
 
-We have included a few really simple samples that show how to use Cloudant. There is more information in the article about how to get up and running with this database.
+We have included a few really simple samples that show how to use Cloudant. There is more information in the article about how to get them up and running.
