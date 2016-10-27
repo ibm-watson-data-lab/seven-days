@@ -1,0 +1,19 @@
+{
+  "_id" : "_design/courses",
+  "_rev": "2-b1870441d9db0c3769a902f071bc3035",
+  "views" : {
+    "foo" : {
+      "map" : "function(doc){ 
+          if(doc.modules.length > 0) {
+              for(var idx in doc.modules) {
+                  emit(doc.modules[idx].name, 1)
+
+              }
+          }
+      }",
+      "reduce": "function (keys, values, rereduce) {
+          return sum(values)
+      }"
+    }
+  }
+}
