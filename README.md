@@ -8,6 +8,6 @@ Here you will find code samples that relate to the individual articles.
 * [MongoDB](/mongodb)
 * [Postgres](/postgres)
 * [IBM Cloudant](/cloudant)
-* Etcd
+* [Etcd](/etcd)
 * Dash DB
 * IBM Graph

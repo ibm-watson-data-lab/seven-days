@@ -1,0 +1,17 @@
+{
+  "name": "etcd-exmaple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "etcd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-etcd": "5.0.1",
+    "async": "^2.0.0-rc.5",
+    "optimist": "^0.6.1",
+    "underscore": "^1.8.3"
+  }
+}
