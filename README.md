@@ -9,5 +9,3 @@ Here you will find code samples that relate to the individual articles.
 * [Postgres](/postgres)
 * [IBM Cloudant](/cloudant)
 * [Etcd](/etcd)
-* Dash DB
-* IBM Graph
