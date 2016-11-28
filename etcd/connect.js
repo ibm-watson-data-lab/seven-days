@@ -8,7 +8,7 @@ var options = {
 };
 
 // Connect!
-var etcd = new Etcd("https://root:DJEITTHMFEYYAWZD@sl-eu-lon-2-portal.1.dblayer.com:10276", options);
+var etcd = new Etcd("https://root:NIFCXDROLSQFLHFJ@bluemix-sandbox-dal-9-portal.4.dblayer.com:18929", options);
 
 // Export
 module.exports = etcd;
