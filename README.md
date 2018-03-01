@@ -1,6 +1,6 @@
 # Seven Databases in Seven Days
 
-This repository is in reference to the "Seven Databases in Seven Days" blog series that will be posted on the [IBM Cloud Data Services Blog](https://developer.ibm.com/clouddataservices/blog/) in the coming weeks.
+This repository is in reference to the "Seven Databases in Seven Days" blog series posted on the [IBM Cloud Data Services site](https://developer.ibm.com/clouddataservices/seven-databases-in-seven-days/).
 
 Here you will find code samples that relate to the individual articles.
 
